@@ -1,0 +1,31 @@
+#title {
+  width: 375;
+  height: auto;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 700;
+  background-color: 81ebdd;
+  margin: 0;
+}
+
+#reset,
+#start {
+  display: flex;
+  width: 375px;
+  justify-content: center;
+  font-weight: 700;
+  background-color: 81ebdd;
+  border: 0;
+  color: navy;
+}
+
+#time {
+  width: 375;
+  height: auto;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 700;
+  background-color: 81ebdd;
+  margin: 0;
+  color: red;
+}
